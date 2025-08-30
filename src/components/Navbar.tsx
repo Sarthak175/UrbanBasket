@@ -33,10 +33,10 @@ export const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">S</span>
+              <span className="text-primary-foreground font-bold text-lg">U</span>
             </div>
             <span className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              ShopEase
+              UrbanBasket
             </span>
           </Link>
 

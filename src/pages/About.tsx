@@ -39,7 +39,7 @@ const About = () => {
       {/* Hero Section */}
       <section className="py-16 px-4 bg-gradient-hero text-white">
         <div className="max-w-4xl mx-auto text-center">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6">About ShopEase</h1>
+          <h1 className="text-4xl md:text-6xl font-bold mb-6">About UrbanBasket</h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 max-w-3xl mx-auto">
             Your trusted online shopping destination, committed to bringing you quality products, 
             exceptional service, and an unparalleled shopping experience.
@@ -55,7 +55,7 @@ const About = () => {
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-muted-foreground">
                 <p>
-                  Founded in 2020, ShopEase began with a simple mission: to make online shopping 
+                  Founded in 2020, UrbanBasket began with a simple mission: to make online shopping 
                   easier, more enjoyable, and more accessible for everyone. What started as a small 
                   team with big dreams has grown into a trusted platform serving thousands of 
                   customers worldwide.
@@ -112,7 +112,7 @@ const About = () => {
       <section className="py-16 px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">ShopEase by the Numbers</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">UrbanBasket by the Numbers</h2>
             <p className="text-xl text-muted-foreground">
               Our growth reflects the trust our customers place in us.
             </p>
@@ -134,10 +134,10 @@ const About = () => {
       <section className="py-16 px-4 bg-gradient-hero text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Ready to Experience ShopEase?
+            Ready to Experience UrbanBasket?
           </h2>
           <p className="text-xl mb-8 text-primary-foreground/90">
-            Join thousands of satisfied customers and discover why ShopEase is the preferred 
+            Join thousands of satisfied customers and discover why UrbanBasket is the preferred 
             choice for online shopping.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

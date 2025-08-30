@@ -52,7 +52,7 @@ const Home = () => {
       >
         <div className="relative z-10 text-center max-w-4xl mx-auto px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-bounce-in">
-            Welcome to <span className="text-secondary animate-pulse-glow">ShopEase</span>
+            Welcome to <span className="text-secondary animate-pulse-glow">UrbanBasket</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-primary-foreground/90 max-w-2xl mx-auto animate-slide-up" style={{animationDelay: '0.3s'}}>
             Discover amazing products at unbeatable prices. Your one-stop shop for everything you need.
@@ -111,8 +111,8 @@ const Home = () => {
                 <CardContent>
                   <UPIQRCode
                     amount={99.00}
-                    merchantId="demo@shopease"
-                    merchantName="ShopEase Demo"
+                    merchantId="demo@urbanbasket"
+                    merchantName="UrbanBasket Demo"
                     onPaymentSuccess={(transactionId) => {
                       toast.success(`🎉 Demo payment successful! Transaction ID: ${transactionId}`);
                     }}
@@ -131,7 +131,7 @@ const Home = () => {
       <section className="py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-            Why Choose ShopEase?
+            Why Choose UrbanBasket?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {features.map((feature, index) => (
@@ -182,7 +182,7 @@ const Home = () => {
             Ready to Start Shopping?
           </h2>
           <p className="text-xl mb-8 text-primary-foreground/90">
-            Join thousands of satisfied customers and discover the ShopEase difference today.
+            Join thousands of satisfied customers and discover the UrbanBasket difference today.
           </p>
           <Link to="/products">
             <Button size="lg" variant="secondary" className="px-8 py-6 text-lg">

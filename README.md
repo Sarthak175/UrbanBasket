@@ -1,4 +1,4 @@
-# ShopEase - E-commerce Platform
+# UrbanBasket - E-commerce Platform
 
 A modern e-commerce platform built with React, TypeScript, and Tailwind CSS, featuring UPI QR code payment integration.
 
