@@ -54,7 +54,7 @@ export const products: Product[] = [
     name: 'Ear Buds',
     price: 1099,
     image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8QoD0PzaNbun00-fUYZJaPgMZCrOvpsXNZTe6Z6JXUcnAMJZoTphTxZiV8MGEwkuNCr6zgAvFRw7Rsa09HCbSDHpBxHHZBM6hM4eFk4RJbFtGFrQP3puCJSg8pIgH2XZzgW1NSac&usqp=CAc',
-    description: 'Premium yoga mat with excellent grip and eco-friendly materials.',
+    description: 'True wireless earbuds with active noise cancellation, premium sound quality, and secure fit design. Features 8-hour battery plus 24 hours with charging case, touch controls, and IPX5 sweat resistance for workouts and daily use.',
     category: 'Sports & Outdoors'
   },
   {
